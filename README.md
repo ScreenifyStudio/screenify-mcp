@@ -42,6 +42,23 @@ screenify mcp install
 - [MCP server guide](https://www.screenify.studio/docs/cli/mcp)
 - [CLI docs](https://www.screenify.studio/docs/cli)
 
+## Privacy Policy
+
+Full policy: **https://www.screenify.studio/privacy**
+
+In short, for this MCP server specifically:
+
+- **What it collects** — nothing. The server runs locally on your Mac and exposes tools to an MCP
+  client you already trust. It has no telemetry of its own.
+- **Where your data goes** — recordings, projects and exported videos stay on your Mac, in your
+  recordings folder and wherever you ask for the output. Nothing is uploaded by the server.
+- **Third parties** — none for the recording and export tools. Two features reach out only when you
+  explicitly use them: web recording fetches the URL you ask for, and the optional AI-director
+  effects call the AI provider whose API key you supplied.
+- **Retention** — the server keeps nothing after a job finishes; the files it produced are yours to
+  keep or delete.
+- **Contact** — support@screenify.studio
+
 ## Support
 
 Issues with the MCP server or the app: [support@screenify.studio](mailto:support@screenify.studio)
