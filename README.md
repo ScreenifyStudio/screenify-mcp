@@ -72,7 +72,11 @@ In short, for this MCP server specifically:
 
 Issues with the MCP server or the app: [support@screenify.studio](mailto:support@screenify.studio)
 
----
+## License
 
-Screenify Studio is proprietary software. This repository contains only the MCP bundle and its
-documentation.
+This repository — the MCP bundle (`screenify.mcpb`: a manifest, a launcher script and an icon)
+and its documentation — is [MIT licensed](LICENSE).
+
+**Screenify Studio itself is proprietary software** and is not covered by that license. The app
+provides the MCP server, the recording pipeline and the export engine; this repo only ships the
+small bundle that launches it.

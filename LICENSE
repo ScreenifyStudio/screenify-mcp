@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Scope note: this license covers the contents of THIS repository — the MCP bundle
-(`screenify.mcpb`: a manifest, a launcher script, and an icon) and its documentation.
-
-Screenify Studio itself — the macOS application that provides the MCP server, the
-recording pipeline and the export engine — is proprietary software and is NOT covered
-by this license. See https://www.screenify.studio
