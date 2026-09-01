@@ -46,6 +46,12 @@ server with every AI client it finds on your Mac. Or from a terminal:
 screenify mcp install
 ```
 
+### From a registry
+
+Screenify is listed in the [official MCP registry](https://registry.modelcontextprotocol.io)
+as `studio.screenify/screenify`, so clients that read the registry can find and install it
+without any of the steps above.
+
 ## Docs
 
 - [MCP server guide](https://www.screenify.studio/docs/cli/mcp)
