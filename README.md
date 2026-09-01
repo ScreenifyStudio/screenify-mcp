@@ -10,7 +10,7 @@ and exported. No terminal, no flags, no editor.
 
 Everything runs locally on your Mac. Nothing is uploaded.
 
-<img src="docs/demo.webp" alt="A recording placed inside a photo of a real desk, with a slow camera push-in" width="620">
+<img src="docs/demo.gif" alt="A recording placed inside a photo of a real desk, with a slow camera push-in" width="620">
 
 <sub>Made with Screenify through an MCP client — no editor was opened.</sub>
 
