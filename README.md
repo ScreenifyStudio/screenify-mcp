@@ -1,14 +1,23 @@
 # Screenify Studio — MCP server
 
-This repository hosts the installable bundle for the **Screenify Studio** MCP server.
-The server itself ships inside the [Screenify Studio](https://www.screenify.studio) macOS app —
-this repo exists so the bundle has a stable, public download URL for the
-[MCP Registry](https://registry.modelcontextprotocol.io) and for MCP clients.
+**Every other screen-related MCP server lets an AI *look at* your screen. This one lets it
+*make a video*.**
 
-## What it does
+Ask Claude, Claude Code or Cursor for a demo and get back a finished file — recorded, styled
+and exported. No terminal, no flags, no editor.
 
-Screenify Studio records your screen and produces studio-styled demo videos. Connect it to an AI
-assistant and you can ask for the finished video instead of driving the editor yourself:
+> "Record a 12-second demo of my landing page and put it on a café desk mockup."
+
+Everything runs locally on your Mac. Nothing is uploaded.
+
+<img src="docs/demo.webp" alt="A recording placed inside a photo of a real desk, with a slow camera push-in" width="620">
+
+<sub>Made with Screenify through an MCP client — no editor was opened.</sub>
+
+## What it can do
+
+Connect it to an AI assistant and ask for the finished video instead of driving the editor
+yourself:
 
 - record a screen, window, area, simulator or a web page
 - style the export — wallpapers, device mockups, photo mockups, auto-zoom, cinematic effects
