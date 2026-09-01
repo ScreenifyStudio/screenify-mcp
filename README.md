@@ -10,9 +10,9 @@ and exported. No terminal, no flags, no editor.
 
 Everything runs locally on your Mac. Nothing is uploaded.
 
-<img src="docs/demo.gif" alt="A recording placed inside a photo of a real desk, with a slow camera push-in" width="620">
+https://github.com/user-attachments/assets/8c753dcb-0e53-4c00-acd6-0cd934b19415
 
-<sub>Made with Screenify through an MCP client — no editor was opened.</sub>
+<sub>Asked in a chat window; recorded, styled and exported by Screenify. No editor was opened.</sub>
 
 ## What it can do
 
