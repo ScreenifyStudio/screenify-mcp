@@ -22,6 +22,7 @@ yourself:
 - record a screen, window, area, simulator or a web page
 - style the export — wallpapers, device mockups, photo mockups, auto-zoom, cinematic effects
 - add camera moves and effects to the moments that matter
+- add animated titles — and keep the ones you made in the app when exporting
 - open a video or image you already have and style that instead
 - export to mp4, mov, gif or webp, with platform presets
 
