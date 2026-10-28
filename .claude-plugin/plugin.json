@@ -9,6 +9,17 @@
   },
   "homepage": "https://www.screenify.studio/docs/cli/mcp",
   "repository": "https://github.com/ScreenifyStudio/screenify-mcp",
+  "documentationUrl": "https://www.screenify.studio/docs/cli/mcp",
+  "supportUrl": "mailto:support@screenify.studio",
+  "privacyPolicyUrl": "https://www.screenify.studio/privacy",
+  "termsOfServiceUrl": "https://www.screenify.studio/terms",
   "license": "MIT",
-  "keywords": ["screen-recording", "demo-video", "screencast", "macos", "video", "mockup"]
+  "keywords": [
+    "screen-recording",
+    "demo-video",
+    "screencast",
+    "macos",
+    "video",
+    "mockup"
+  ]
 }

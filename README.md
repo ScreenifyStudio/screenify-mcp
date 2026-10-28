@@ -77,7 +77,7 @@ without any of the steps above.
 
 ## Privacy Policy
 
-Full policy: **https://www.screenify.studio/privacy**
+Full policy: **[www.screenify.studio/privacy](https://www.screenify.studio/privacy)**
 
 In short, for this MCP server specifically:
 
