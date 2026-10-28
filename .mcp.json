@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "screenify": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/scripts/screenify-mcp.sh",
+      "args": []
+    }
+  }
+}

@@ -33,6 +33,23 @@ Everything runs locally on your Mac. Nothing is uploaded.
 **Requires [Screenify Studio](https://www.screenify.studio/download) 2.2.0 or newer.** The bundle
 carries no binary — it launches the CLI that ships inside the app.
 
+### Claude Code and Cowork — plugin
+
+This repository is also a Claude plugin. It bundles the MCP server with a skill that teaches Claude
+which Screenify flow to use for a request. In Claude Code:
+
+```sh
+claude --plugin-dir /path/to/screenify-mcp
+```
+
+The plugin's server runs locally, so it works in Claude Code and in Cowork sessions on your Mac. In a
+regular Claude chat, use the one-click bundle below instead.
+
+**What the plugin runs.** `scripts/screenify-mcp.sh` looks for the `screenify` command that ships
+inside the Screenify Studio app (`/Applications/Screenify Studio.app`, or the copy the app installs
+at `~/.screenify/bin`) and starts it as an MCP server over stdio. It downloads and installs nothing.
+If the app is missing, it returns an error that tells you where to get it.
+
 ### Claude Desktop — one click
 
 Download [`screenify.mcpb`](https://github.com/ScreenifyStudio/screenify-mcp/releases/latest/download/screenify.mcpb)
@@ -81,8 +98,9 @@ Issues with the MCP server or the app: [support@screenify.studio](mailto:support
 
 ## License
 
-This repository — the MCP bundle (`screenify.mcpb`: a manifest, a launcher script and an icon)
-and its documentation — is [MIT licensed](LICENSE).
+This repository — the Claude plugin (a manifest, a launcher script and a skill), the MCP bundle
+(`screenify.mcpb`: a manifest, a launcher script and an icon) and its documentation — is
+[MIT licensed](LICENSE).
 
 **Screenify Studio itself is proprietary software** and is not covered by that license. The app
 provides the MCP server, the recording pipeline and the export engine; this repo only ships the

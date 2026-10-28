@@ -1,0 +1,14 @@
+{
+  "name": "screenify",
+  "displayName": "Screenify Studio",
+  "version": "1.0.0",
+  "description": "Record your screen and export studio-styled demo videos on macOS — wallpapers, device and photo mockups, auto-zoom, cinematic effects — driven by your AI assistant. Runs locally; requires the free Screenify Studio app.",
+  "author": {
+    "name": "Screenify Studio",
+    "url": "https://www.screenify.studio"
+  },
+  "homepage": "https://www.screenify.studio/docs/cli/mcp",
+  "repository": "https://github.com/ScreenifyStudio/screenify-mcp",
+  "license": "MIT",
+  "keywords": ["screen-recording", "demo-video", "screencast", "macos", "video", "mockup"]
+}
